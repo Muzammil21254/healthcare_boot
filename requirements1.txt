@@ -6,6 +6,8 @@ streamlit==1.43.2
 python-dotenv==1.1.0
 bcrypt==4.0.1
 cffi
+setuptools-rust
+wheel
 APScheduler==3.11.0
 pymongo==4.11.3
 deepgram-sdk==3.11.0
@@ -14,4 +16,5 @@ sounddevice==0.5.1
 soundfile==0.13.1
 
 SpeechRecognition==3.14.2
+
 
